@@ -2,21 +2,21 @@
 Allow patients to submit and update patient information and store it securely making on- boarding faster and reliable. Define the desired capabilities (i.e. requirements) of this portal. The requirements should be ideally expressed from the perspective of a patient who wants to visit the hospital/clinic for consultation and/or procedure. You can choose a general practitioner or dental practice or eye clinic or any other. Patient onboarding regulations should be researched and built into the application.
 This project is only spring project and please find related angular project here. You will find complete description of running project in Installation and Run Section
 
-Project Description
+Project Description :
 Title of our application is patient on-boarding app
 
 As the title suggest the main use case of the application is to make an appointment as patient and as an doctor process the appointment
 
 Use cases and roles
-As a Patient:
+As a Patient :
 I can create an account and login to my account and make an appointment with an specialized doctor according to my wish
 I can buy medicines which have been allocated for me from the doctors
 I can view my account and update my account as per my convenience
-As a Doctor
+As a Doctor :
 I can login to my account and get the appointments that has been scheduled for me
 I can allocate medicines to a particular patient
 I can view my account and update my account as per my convenience
-As an Admin
+As an Admin :
 I can login to my account and get the all the appointments that has been received
 I can allocate medicines to a particular patient and also get all the medicines that has been allocated to patients
 I can add doctors and delete doctors
@@ -29,7 +29,7 @@ SpringBoot
 Spring Data
 PostgreSql
 JSON
-Technical Aspect:
+Technical Aspect :
 Used Spring Data for connecting to postgresql database
 Used DAO design pattern in the project
 Created Interactive Webpages using Angular and Bootstrap for the website
@@ -37,7 +37,7 @@ All the client side and server side validations were done using TypeScript and D
 Exception or Error Handling is done in both java and angular(With HttpClient)
 Tested all the functionalities using JUnit4
 Implemented Logging by Log4j
-Getting Started
+Getting Started :
 After running this project , run the angular project (import angular project here). Homw page will be displayed where you can see the about and facilities section about the hospital. And also customer can register and login, Doctor and admin can login.
 
 Customer can make an appointment with the specified doctor after login, and can view and update profile, Also buy medicine. Dotor can view his/her appointments, can also allocate medicines. Admin can add doctor, medicines and have control over the whole functionalities
