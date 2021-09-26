@@ -1,4 +1,4 @@
-# Patient-Onboarding-Project-2
+# Patient-Onboarding
 Allow patients to submit and update patient information and store it securely making on- boarding faster and reliable. Define the desired capabilities (i.e. requirements) of this portal. The requirements should be ideally expressed from the perspective of a patient who wants to visit the hospital/clinic for consultation and/or procedure. You can choose a general practitioner or dental practice or eye clinic or any other. Patient onboarding regulations should be researched and built into the application.<br>
 This project is only spring project and please find related angular project here. You will find complete description of running project in Installation and Run Section
 
