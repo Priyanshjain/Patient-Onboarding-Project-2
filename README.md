@@ -1,4 +1,4 @@
-# Patient-Onboarding-Project-2
+# Patient-Onboarding-Project-2 -
 ### Allow patients to submit and update patient information and store it securely making on- boarding faster and reliable. Define the desired capabilities (i.e. requirements) of this portal. The requirements should be ideally expressed from the perspective of a patient who wants to visit the hospital/clinic for consultation and/or procedure. You can choose a general practitioner or dental practice or eye clinic or any other. Patient onboarding regulations should be researched and built into the application.
 ### This project is only spring project and please find related angular project here. You will find complete description of running project in Installation and Run Section
 
@@ -21,7 +21,7 @@
 ### I can allocate medicines to a particular patient and also get all the medicines that has been allocated to patients
 ### I can add doctors and delete doctors
 ### I can able to delete patients and delete the records of medicines that been in the bought state
-## Technologies Used
+## Technologies Used :
 ### Java
 ### Angular
 ### SpringBoot
@@ -46,7 +46,8 @@
 ### Import this project by a Github Desktop(click here to install) or by downloading the Zip file . If you downloaded the zip file then you need to unzip or extract it and import this in eclipse(file-->import-->select the project) change the database configuration in application.properties file (Driver,Dialect,username and password).
 
 ## Step2 :
-### Import the angular Project (find here)by a Github Desktop or by downloading the Zip file. If you downloaded the zip file then you need to unzip or extract it and open the project folder in visual studio code or any other code editor(file-->select folder-->select the project)
+### Import the angular Project (find here)by a Github Desktop or by downloading the Zip file. If you downloaded the zip file then you need to unzip or extract it and open the project folder in visual studio code or any other code editor(
+### file-->select folder-->select the project)
 
 ### That's all you can run this project and see the results.
 
